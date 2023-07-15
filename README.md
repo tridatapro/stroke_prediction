@@ -1,4 +1,4 @@
-# stroke_prediction
+# Unveiling the Silent Killer: Predicting Stroke Incidence through Data Analysis and Machine Learning
 In this project, we embark on a journey to leverage data analysis and machine learning techniques to predict stroke incidence accurately.
 The dataset used for this project was obtained from https://www.kaggle.com/datasets/fedesoriano/strokeprediction-dataset, and it contains a comprehensive set of features, including demographic information, medical history, lifestyle factors, and clinical measurements. Our goal is to explore this dataset, gain insights into the factors contributing to stroke incidence, and develop predictive models to aid in stroke risk assessment.
 
